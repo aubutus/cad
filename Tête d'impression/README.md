@@ -14,3 +14,5 @@ Conception issue du travail de :
  - ```@bluecrow V2.1298 ```(@bluecow_9603)
 
 présent sur le [Discod Voron #honhonhonbaguette-fr](https://discord.com/channels/460117602945990666/500407802414628876)
+
+<span style="color: green"> Some green text </span>
