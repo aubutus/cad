@@ -10,9 +10,7 @@ Stealthburner With :
 
 Conception issue du travail de :
  - <code style="color:blue">@Falcon14141 V2³³⁰¹ VØ⁴²</code> (@falcon14141)
- - ```@GrilLMeister V2.🔥 T🔥``` (@aerane)
- - ```@bluecrow V2.1298 ```(@bluecow_9603)
+ - <code style="color:blue">@GrilLMeister V2.🔥 T🔥</code> (@aerane)
+ - <code style="color:blue">@bluecrow V2.1298 </code>(@bluecow_9603)
 
 présent sur le [Discod Voron #honhonhonbaguette-fr](https://discord.com/channels/460117602945990666/500407802414628876)
-
-<span style="color: green"> Some green text </span>
