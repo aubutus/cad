@@ -13,5 +13,9 @@ Conception issue du travail de :
  - [@GrilLMeister V2.🔥 T🔥](https://discord.com/channels/460117602945990666/500407802414628876)
  - [@bluecrow V2.1298](https://discord.com/channels/460117602945990666/500407802414628876)
 
+Câblage :
+<picture>
+ <img alt="Stealthburner" src="images/C%C3%A2blage%20SB2240.png">
+</picture>
 
 présent sur le [Discod Voron #honhonhonbaguette-fr](https://discord.com/channels/460117602945990666/500407802414628876)
