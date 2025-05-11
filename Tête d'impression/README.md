@@ -12,11 +12,10 @@ Conception issue du travail de :
  - [@Falcon14141 V2³³⁰¹ VØ⁴²](https://discord.com/channels/460117602945990666/500407802414628876)
  - [@GrilLMeister V2.🔥 T🔥](https://discord.com/channels/460117602945990666/500407802414628876)
  - [@bluecrow V2.1298](https://discord.com/channels/460117602945990666/500407802414628876)
+tous présent sur le [Discod Voron #honhonhonbaguette-fr](https://discord.com/channels/460117602945990666/500407802414628876)
 
 Câblage : 
 
 <picture>
  <img alt="Stealthburner" src="images/Wiring_SB2240.png">
 </picture>
-
-présent sur le [Discod Voron #honhonhonbaguette-fr](https://discord.com/channels/460117602945990666/500407802414628876)
