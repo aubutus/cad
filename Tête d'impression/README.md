@@ -13,7 +13,7 @@ Conception issue du travail de :
  - [@GrilLMeister V2.🔥 T🔥](https://discord.com/channels/460117602945990666/500407802414628876)
  - [@bluecrow V2.1298](https://discord.com/channels/460117602945990666/500407802414628876)
 
-Câblage :
+Câblage : <br />
 <picture>
  <img alt="Stealthburner" src="images/Wiring_SB2240.png">
 </picture>
